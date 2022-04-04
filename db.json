@@ -1,5 +1,5 @@
 {
-  "tasks":[
+  "cars":[
       {
           "id": 1,
           "make": "Volvo",
@@ -10,7 +10,7 @@
 	  "mileage" : 55000,
 	  "manual" : true,
         },
-           {
+        {
           "id": 2,
           "make": "BMW",
           "model": "Series 1",
@@ -18,7 +18,7 @@
           "fuelType": "Petrol",
           "colour": "White",
 	  "mileage" : 95000,
-	  "manual" : false,
+	  "manual" : false
         }
   ]
 }
