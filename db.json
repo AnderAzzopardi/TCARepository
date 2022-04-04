@@ -8,7 +8,7 @@
           "fuelType": "Diesel",
           "colour": "Grey",
 	  "mileage" : 55000,
-	  "manual" : true,
+	  "manual" : true
         },
         {
           "id": 2,
